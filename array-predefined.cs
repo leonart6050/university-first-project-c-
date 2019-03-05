@@ -82,7 +82,7 @@ class NumeroC
             }            
         }       
     }
-    //Redéfinition de la methode pour determiner le max et le min dun tableau de double
+    //Redéfinition de la méthode pour determiner le max et le min d'un tableau de double
     static void detMinMax(double[] tableau, out int indiceMin, out int indiceMax, int borne)
     {
         indiceMin = indiceMax = 0;
