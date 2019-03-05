@@ -1,6 +1,4 @@
 ﻿using System;
-/*Jorge Leonardo Trujillo Salas
-  TRUJ12059003*/
 class NumeroC
 {
     //Méthode pour afficher en mode de matrice (rangées et colonnes)
