@@ -1,6 +1,4 @@
 ﻿using System;
-/*Jorge Leonardo Trujillo Salas
-  TRUJ12059003*/
 class NumeroB
 {
     static int chiffre = 1; //variable pour énumérer les nombres parfaits
