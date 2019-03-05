@@ -1,5 +1,5 @@
 ﻿using System;
-class NumeroB
+class PerfectNumbers
 {
     static int chiffre = 1; //variable pour énumérer les nombres parfaits
 
