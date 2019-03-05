@@ -1,5 +1,5 @@
 ﻿using System;
-class NumeroC
+class ArrayPredefined
 {
     //Méthode pour afficher en mode de matrice (rangées et colonnes)
      static void affiche(int[] age, int[] cafe, double[] taille, char[] sexe, int borne)
