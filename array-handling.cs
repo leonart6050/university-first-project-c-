@@ -1,5 +1,5 @@
 ﻿using System;
-class ArrayPredefined
+class Arrayhandling
 {
     //Méthode pour afficher en mode de matrice (rangées et colonnes)
      static void affiche(int[] age, int[] cafe, double[] taille, char[] sexe, int borne)
