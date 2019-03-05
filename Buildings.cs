@@ -1,7 +1,5 @@
 ﻿using System;
-/*Jorge Leonardo Trujillo Salas
-  TRUJ12059003*/
-class NumeroA
+class Buildings
 {
     static void Main(string[] args)
     {
